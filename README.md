@@ -11,8 +11,6 @@
 
 - 📄 Мое резюме [https://yadi.sk/i/1uCCNyqTHzZrQg](https://yadi.sk/i/1uCCNyqTHzZrQg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
