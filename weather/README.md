@@ -6,13 +6,15 @@
 
 - Отслеживание ошибок получения и ввода данных
 
-- Исрользование Tkineter
+- Исрользование Tkinter
 
 </p>
 
 
 <p align="center"> 
-![](https://github.com/daner07/practice_python/blob/master/weather/weather.gif?raw=true)
+
+<img src="https://github.com/daner07/practice_python/blob/master/weather/weather.gif?raw=true" />
+
 
 
 </p>
