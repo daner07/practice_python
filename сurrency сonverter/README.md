@@ -12,7 +12,7 @@
 
 <p align="center"> 
 
-<img src="https://github.com/daner07/practice_python/blob/master/сurrency-сonverter/currency.gif?raw=true" />
+<img src="https://github.com/daner07/practice_python/blob/master/%D1%81urrency%20%D1%81onverter/currency.gif?raw=true" />
 
 
 
