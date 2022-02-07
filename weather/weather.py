@@ -22,7 +22,7 @@ def print_weather(weather):
         sunset_struct_time = time.localtime(sunset_ts)
         sunrise = time.strftime("%H : %M : %S", sunrise_struct_time)
         sunset = time.strftime("%H : %M : %S", sunset_struct_time)
-        return f"Местоположение: {city}, {country} \nТемпература: {temp} *С \nАтм. давление: {press} гПа\nВлажность: {humidity}% \nСкорость ветра: {wind} м\с\n" \
+        return f"Местоположение: {city}, {country} \nТемпература: {temp} *С \nАтм. давление: {press} гПа\nВлажность: {humidity}% \nСкорость ветра: {wind} м\с\n"\
                f"Погодные условия: {desc} \nВосход: {sunrise} \nЗакат: {sunset}"
     except:
         return "Ошибка преобразования данных"
