@@ -56,6 +56,7 @@ def clear_entry_weather(event=''):
 
 root = Tk()
 root.geometry("400x300")
+root.title("Weather")
 # root.resizable(0, 0)
 
 
