@@ -38,7 +38,7 @@ def create_task():
     # запись текста в файл
     with open('to-do-list.txt', 'a') as file:
         file.write(f'{query}\n')
-    return f'Задча "{query}" успешно добавлена в лист задач'
+    return f'Задача "{query}" успешно добавлена в лист задач'
 
 
 def main():
