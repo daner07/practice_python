@@ -1,5 +1,5 @@
 <h1 align="center">Привет. Я Даник</h1>
-<h3 align="center">Я Junior Python разработчик</h3>
+<h3 align="center">Я BackEnd Python разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daner07&label=Profile%20views&color=0e75b6&style=flat" alt="daner07" /> </p>
 
